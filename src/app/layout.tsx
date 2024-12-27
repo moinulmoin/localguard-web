@@ -24,7 +24,8 @@ export const metadata: Metadata = {
     description:
       "Automatically manage Chrome extensions when developing on localhost. LocalGuard disables extensions on localhost and restores them when leaving, optimized for Next.js and modern frameworks.",
     type: "website",
-    url: "https://localguard.moinulmoin.com"
+    url: "https://localguard.moinulmoin.com",
+    siteName: "LocalGuard"
   },
   twitter: {
     card: "summary_large_image",
