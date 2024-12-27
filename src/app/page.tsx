@@ -46,7 +46,7 @@ export default function Homepage() {
             />
             <Feature
               icon={ArrowRight}
-              title="Perfect for Next.js"
+              title="Perfect for Next.js Development"
               description="Specially optimized for Next.js development workflow and other modern frameworks."
             />
           </div>
